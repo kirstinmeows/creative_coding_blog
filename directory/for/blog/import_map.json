@@ -1,5 +1,5 @@
 {
   "imports": {
-    "blog": "https://raw.githubusercontent.com/denoland/deno_blog/main/blog.tsx/"
+    "blog": "https://raw.githubusercontent.com/denoland/deno_blog/main/blog.tsx"
   }
 }
