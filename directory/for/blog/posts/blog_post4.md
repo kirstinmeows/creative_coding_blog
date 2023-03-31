@@ -4,6 +4,7 @@ publish_date: 2023-03-31
 disable_html_sanitization: true
 ---
 This post explores how to interact with the mouse ! 
+
 > What do you call a mouse that swears? A cursor. 
 
 P5 has three ways to interact with the mouse: 
