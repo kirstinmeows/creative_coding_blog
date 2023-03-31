@@ -57,4 +57,4 @@ function random_color ()
 The distance is set through an `if()` statement, which changes the direction of the movement once the shape has hit the edge of the canvas.  This creates a bouncing effect, simply through changing the y-position.
 
 
-P.S the title to this post was my attempt at a joke (╥_╥)
+P.S the title was my attempt at a joke (╥_╥)
