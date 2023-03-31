@@ -1,6 +1,6 @@
 ---
-title: Hello world, again!
-publish_date: 2023-03-10
+title: How to be random
+publish_date: 2023-03-30
 ---
 
 This is my first second post!
