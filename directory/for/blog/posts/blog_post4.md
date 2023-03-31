@@ -36,7 +36,7 @@ function mousePressed()
 ```
 By setting a range between the `mouseY` and `mouseY +100` it means that the circles will form between the position of the mouse and 100px below. 
 
-The example below shows the difference between `mousePressed` and `mouseDragged`, changing from a 'falling' effect to a 'dragging and dropping' effect.  This is done simply by changing the `mousePressed` event to `mouseDragged`
+The example below shows the difference between `mousePressed` and `mouseDragged`, changing from a 'falling' effect to a 'dragging and dropping' effect.  This is done simply by changing the `mousePressed` event to `mouseDragged`,  the circles then move along with the mouse for as long as the mouse is dragged for.
 
 <iframe width="400" height="442" src="https://editor.p5js.org/kirstinmeows/full/X_7Yyn2rP"></iframe>   
 
