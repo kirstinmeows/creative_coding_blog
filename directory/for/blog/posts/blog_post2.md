@@ -9,3 +9,5 @@ Randomness refers to the lack of predictability in an event or it's outcome.  It
 
 Within p5 it refers to the built in function `random()`, which allows for a random value to be returned (further information can be found [here](https://p5js.org/reference/#/p5/random)).
 
+<iframe width="400" height="442" src="https://editor.p5js.org/kirstinmeows/sketches/F9NqeIzzq"></iframe> 
+
