@@ -11,4 +11,4 @@ Making a star in p5 is unfortunately not as simple as just writing `star ()`... 
 
 This is where the maths comes in, each point must be spaced evenly across each hypothetic circle, with the positioning of the inner and outer points at an angle relative to circumference and radius of the circles.  This can be done through the us of `TAU`, a number which represents the ratio of the circumference to the radius of a circle.
 
-<iframe width = "400" height = "400" src="https://editor.p5js.org/kirstinmeows/full/SytXscgY7"></iframe>
+<iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/SytXscgY7"></iframe>
