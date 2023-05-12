@@ -31,4 +31,5 @@ Using the code below, we can determine these points relative to the centre of th
     // inner points
       point (x + cos((i + 0.5) * theta)* innerRadius, y + sin((i +0.5)* theta)*innerRadius);
     }
+  }
 ```
