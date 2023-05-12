@@ -13,5 +13,22 @@ This is where the maths comes in, each point must be spaced evenly across each h
 The number `TAU` represents this ratio between the circumference to the radius of a circle, we divide this by the number of points to create `'n'` equal angles of the circle.
 
 <iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/SytXscgY7"></iframe> 
-This sketch shows a visual representation of the 'hypothetical' circles along which the points of the star are placed. 
+This sketch shows a visual representation of the 'hypothetical' circles along which the points of the star are placed.  
 
+Using the code below, we can determine these points relative to the centre of the star drawing 5 points along the inner circle and 5 points along the outer circle.
+```javascript 
+// number of points represented by n.  x and y coordinates of centre of star
+    function pointedStar (x,y, n, outerRadius, innerRadius)
+  {
+// TAU divided by the number of 'n' angles to create 'n' equal angles 
+    let theta = TAU / n; 
+
+  // iterates through the points multiplied by i 
+    for (let i = 0; i < n; i++)
+    {
+    // outer points  
+      point (x + cos(i * theta) * outerRadius, y + sin(i * theta) * outerRadius);
+    // inner points
+      point (x + cos((i + 0.5) * theta)* innerRadius, y + sin((i +0.5)* theta)*innerRadius);
+    }
+```
