@@ -13,4 +13,5 @@ I followed along to [The Coding Train's](https://www.youtube.com/watch?v=76fiD5D
 Here's my sketch I created using the guidance from the video linked above, as well as some experimentation with HSB colours.
 <iframe width="400" height="442" src="https://editor.p5js.org/kirstinmeows/full/5Ev5FxtQq"></iframe> 
 
-These custom shapes are also explored in the previous post
+These custom shapes are also explored in the previous post, with the star shapes.  Here are some other stars to brighten up your night. 
+<iframe width = "400" height = "400" src="https://editor.p5js.org/kirstinmeows/full/oBylHxa_9"></iframe>
