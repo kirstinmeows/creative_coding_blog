@@ -34,6 +34,6 @@ Using the code below, we can determine these points relative to the centre of th
     }
   }
 ```
-We can then create a star shape using the `beginShape()` & `endShape()` functions (explored in the [next post](insert link to custom shapes blog post)). 
+We can then create a star shape using the `beginShape()` & `endShape()` functions (explored in the next post). 
 
 <iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/3ckwuSnkL"></iframe>
