@@ -28,8 +28,12 @@ Using the code below, we can determine these points relative to the centre of th
     {
     // outer points  
       point (x + cos(i * theta) * outerRadius, y + sin(i * theta) * outerRadius);
-    // inner points
+    // inner points 
+    // add 0.5 to i, to place inner points midway between the outer points thus creating the 'star' shape
       point (x + cos((i + 0.5) * theta)* innerRadius, y + sin((i +0.5)* theta)*innerRadius);
     }
   }
 ```
+We can then create a star shape using the `beginShape()` & `endShape()` functions (explored in the [next post](insert link to custom shapes blog post)). 
+
+<iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/3ckwuSnkL"></iframe>
