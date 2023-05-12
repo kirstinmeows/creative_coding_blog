@@ -6,4 +6,6 @@ disable_html_sanitization: true
 ## Fruit Salad 
 <iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/ShLxOcP1c2"></iframe> 
 <iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/-cLoEJezD"></iframe> 
-<iframe width = "400" height = "442"src="https://editor.p5js.org/kirstinmeows/full/AJSD8st5X"></iframe>
+<iframe width = "400" height = "442"src="https://editor.p5js.org/kirstinmeows/full/AJSD8st5X"></iframe> 
+
+When researching gradients within P5 I found that there were many different methods and approaches.
