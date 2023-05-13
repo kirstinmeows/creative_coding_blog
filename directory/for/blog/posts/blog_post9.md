@@ -29,4 +29,6 @@ Lerp is a very useful tool that calculates values between two points at the incr
   }
   ```
 
+Another function which uses lerp is `lerpColor()`, which also has three parameters, instead the first two values are colours.  This creates a 'blend' of the two colours, a sort of gradient effect. 
 
+<iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/mfFFHnYOQ"></iframe>
