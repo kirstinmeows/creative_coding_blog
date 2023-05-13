@@ -8,4 +8,11 @@ disable_html_sanitization: true
 <iframe width = "400" height = "442" src="https://editor.p5js.org/kirstinmeows/full/-cLoEJezD"></iframe> 
 <iframe width = "400" height = "442"src="https://editor.p5js.org/kirstinmeows/full/AJSD8st5X"></iframe> 
 
-When researching gradients within P5 I found that there were many different methods and approaches.
+The method explored above uses the html function `createLinearGradient()`, to create a gradient between two points, with two or more colour stops (although the function allows for more colour stops to be added).  For a full explanation of the `createLinearGradient()` function look [here](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createLinearGradient). 
+
+The function caries 4 parameters: 
+
+1. sX the x-coordinate of the start point 
+2. sY the y-coordinate of the start point 
+3. eX the x-coordinate of the end point 
+4. eY the y-coordinate of the end point
