@@ -12,3 +12,8 @@ The term xoxo referring to hugs and kisses, implies love and affection(also a re
 
 ## void 
 <iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/0Eww7H0w0"></iframe> 
+The title void is drawn from the feeling of numbness and tiredness.  The blob fades in and out of the background symbolising the lack of energy, provoking feelings of sleepiness as the animation can also be interpreted as eyes opening and closing.  The lack of colour and grey tones setting a grim mood.
+
+## delight 
+<iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/0Eww7H0w0"></iframe> 
+One of the more simple concepts, with the warm colour choices promoting happiness and comfort.  The slow transition of colour in contrast to the faster movement, shows energy and light.  
