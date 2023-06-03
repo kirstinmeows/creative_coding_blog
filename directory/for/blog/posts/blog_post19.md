@@ -13,4 +13,4 @@ Throughout the course I found myself following many of Daniel Shiffman's videos,
 
 Although I may not have developed my skill set to a professional or even advanced level, I am still very happy and proud of the things I have learnt and progress I have made.  I hope to continue using creative coding, and gaining more confidence in my work!
 
-Thank you to Thomas Caprogecco for teaching and inspiring me, your [blog](https://creative-coding-blog.deno.dev/) was my saviour throughout this course.  As well as The Coding Train [Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) for helping me find the right code to execute my ideas. 
+Thank you to Thomas Capogreco for teaching and inspiring me, your [blog](https://creative-coding-blog.deno.dev/) was my saviour throughout this course.  As well as The Coding Train [Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) for helping me find the right code to execute my ideas. 
