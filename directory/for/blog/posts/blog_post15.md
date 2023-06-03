@@ -6,4 +6,4 @@ disable_html_sanitization: true
 
 A breakdown of the 3 artworks and their design choices! 
 
-<iframe width="800" height = "642" src="https://editor.p5js.org/kirstinmeows/full/1w0mP664i"></iframe>
+<iframe width="600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/1w0mP664i"></iframe>
