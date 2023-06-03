@@ -16,4 +16,4 @@ The work knot is often associated with tightness and restraint, the title hintin
 
 ## wilting
 <iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/q5Bg4Bc1p"></iframe> 
-The tones of grey and blue set a soft but down feel.  The colour and blob shifts slowly portraying the low energy of sadness and depression.  Similar to void the muted tones lack energy or intensity, providing a more calm sense of solitude.
+The tones of grey and blue set a soft but down feel.  The colour and blob shifts slowly portraying the low energy of sadness and depression.  Similar to 'void' the muted tones lack energy or intensity, providing a more calm sense of solitude.
