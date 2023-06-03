@@ -1,6 +1,6 @@
 ---
 title: Stage fright
-publish_date: 2023-06-1
+publish_date: 2023-06-01
 disable_html_sanitization: true
 ---
 
