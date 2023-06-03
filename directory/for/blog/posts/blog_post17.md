@@ -12,8 +12,8 @@ As suggested by the title, the theme of this blob is party.  Stemming from being
 
 ## knot
 <iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/m3nOs713z"></iframe> 
-The title void is drawn from the feeling of numbness and tiredness.  The blob fades in and out of the background symbolising the lack of energy, provoking feelings of sleepiness as the animation can also be interpreted as eyes opening and closing.  The lack of colour and grey tones setting a grim mood.
+The work knot is often associated with tightness and restraint, the title hinting to the anxious intention of this blob.  The colour purple is associated in pyschology with anxiety, combined with the fast and contained movement of the blob, it aims to be unsettling and anxiety-ridden.  The blob fading in and out represents the urge to withdraw from uncomfortable situations.
 
-## delight 
-<iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/0Eww7H0w0"></iframe> 
-One of the more simple concepts, with the warm colour choices promoting happiness and comfort.  The slow transition of colour in contrast to the faster movement, shows energy and light.  
+## wilting
+<iframe width = "600" height = "442" src="https://editor.p5js.org/kirstinmeows/full/q5Bg4Bc1p"></iframe> 
+The tones of grey and blue set a soft but down feel.  The colour and blob shifts slowly portraying the low energy of sadness and depression.  Similar to void the muted tones lack energy or intensity, providing a more calm sense of solitude.
